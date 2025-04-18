@@ -2,7 +2,7 @@
 
 Welcome to my personal portfolio website! This site showcases my skills, projects, and professional journey as a developer. It's built using HTML, CSS, and JavaScript with a responsive design for all devices.
 
-🔗 **Live Site:** [https://palvi22.github.io](https://palvi22.github.io)
+🔗 **Live Site:** https://palvi22.github.io/portfolio-website/
 
 ---
 
